@@ -1,4 +1,4 @@
-pringboot-multi-project-repo/
+springboot-multi-project-repo/
 ├── pom.xml                     <-- Parent POM
 ├── project-auth/              <-- Auth microservice
 │   └── pom.xml
